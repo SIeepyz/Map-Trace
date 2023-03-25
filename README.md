@@ -1,4 +1,4 @@
-# Map-Trace
+# Map-Trace by Galaga
 Traces map based on data
 ## Instructions
 Inside you will find one folder in which you'll see exactly 5 files:
@@ -15,5 +15,8 @@ The other is a set of sample data you can copy and paste into the program just t
 
 If you have any questions within reason @ me and I can try to help you
 
+Special Thanks for Waffle and Foxzo for introducing and helping Galaga with path travelled information.
 Also thanks to waffle and foxzo for helping me out and introducing me to the path travelled stuff initially
-https://streamable.com/gsogbf
+
+Video found here
+https://discord.com/channels/160982950710738945/1084501530184523817/1088988745077903520 :)
