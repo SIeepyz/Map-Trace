@@ -1,4 +1,4 @@
-# Map-Trace by Galaga
+# Map-Trace by Galaga49 | MoreOs#4958
 Traces map based on data
 ## Instructions
 Inside you will find one folder in which you'll see exactly 5 files:
